@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Aiswarya cs
-- I'm a passionate software developer who completed a bachelor's degree in computer science.I have hands-on experience from an internship in java full stack development and I'm eager to contribute my skills.I love learning new things and believe that my continuos learning make me a valuable contributor
+- I'm a passionate software developer who completed a bachelor's degree in computer science under calicut university.I have hands-on experience from an internship in java full stack development and I'm eager to contribute my skills to new projects.I love learning new things and believe that my continuos learning make me a valuable contributor
 - 👀 I’m currently loooking for new opportunites to apply my skills.
 - Ask me about java ,springboot,html,css,and mysql.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :aiswaryacs7777@gmail.com
 - ⚡ Fun fact: I enjoy reading books.
 
